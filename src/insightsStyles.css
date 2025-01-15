@@ -1,0 +1,13 @@
+.insights-container {
+      height: 100vh;
+      margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
+      background-color: #1e1e1e;
+      color: #f4f4f9;
+    }
+
+    .title {
+      font-size: 2em;
+      margin: 0;
+    }
